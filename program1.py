@@ -15,7 +15,7 @@ class Solution(object):
                 if mapping[char] != top_element:  
                     return False
             else:
-                stack.append(char)  # It's an opening bracket, push onto the stack
+                stack.append(char) 
 
         return not stack 
 
