@@ -19,6 +19,7 @@ class Solution(object):
 
         return not stack 
 
+            pass
 
 
 
