@@ -6,7 +6,7 @@ class Solution(object):
         """
         pass
 
- stack = []
+        stack = []
         mapping = {')': '(', '}': '{', ']': '['}
 
         for char in s:
